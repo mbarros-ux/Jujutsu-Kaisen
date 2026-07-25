@@ -1,6 +1,6 @@
 # Jujutsu-Kaisen - Site de Fã
 
-![Screenshot do Projeto Jujutsu-Kaisen](jujutsu.png)
+![Screenshot do Projeto Jujutsu-Kaisen](jujutsu.jpeg)
 
 ## Demo ao Vivo
 [Ver projeto funcionando](https://mbarros-ux.github.io/Jujutsu-Kaisen/)
